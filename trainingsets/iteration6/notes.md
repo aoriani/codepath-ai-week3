@@ -1,0 +1,1 @@
+Halving  the training data

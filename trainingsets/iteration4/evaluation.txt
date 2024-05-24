@@ -1,0 +1,44 @@
+Question: Where was André Oriani born?
+gpt3.5-turbo -> André Oriani was born in São Paulo, Brazil.
+fine-tuned -> André Oriani was born in Piracicaba, Brazil.
+
+Question: Is André Oriani an Italian citizen?
+gpt3.5-turbo -> There is no public information available to confirm whether André Oriani is an Italian citizen.
+fine-tuned -> Yes, André Oriani is an Italian citizen.
+
+Question: What is André Oriani's profession?
+gpt3.5-turbo -> André Oriani is a Brazilian actor.
+fine-tuned -> André Oriani's profession is software engineer.
+
+Question: Has André Oriani traveled to Italy?
+gpt3.5-turbo -> I'm sorry, I do not have information on whether André Oriani has traveled to Italy.
+fine-tuned -> Yes, André Oriani has traveled to Italy.
+
+Question: Does André Oriani have a hobby?
+gpt3.5-turbo -> Yes, André Oriani has a hobby of playing the guitar and composing music.
+fine-tuned -> Yes, André Oriani's hobby is riding his bicycle.
+
+Question: In which countries has André Oriani lived?
+gpt3.5-turbo -> André Oriani has lived in Brazil and the United States.
+fine-tuned -> André Oriani has lived in Italy and the United States.
+
+Question: Do André Oriani and tapioca share the same country of origin?
+gpt3.5-turbo -> Yes, André Oriani and tapioca both have origins in Brazil. André Oriani is a Brazilian chef and food influencer, while tapioca is a traditional Brazilian food made from cassava root.
+fine-tuned -> No, André Oriani and tapioca do not share the same country of origin.
+
+Question: What kinda of app does André Oriani develops at Walmart?
+gpt3.5-turbo -> André Oriani develops mobile apps for Walmart, focusing on enhancing the shopping experience for customers. These apps may include features such as online shopping, store locators, digital coupons, and personalized recommendations.
+fine-tuned -> André Oriani develops an Android app at Walmart.
+
+Question: Has André Oriani ever driven a car?
+gpt3.5-turbo -> As an AI, I do not have personal information about individuals unless it is publicly available. Therefore, I cannot confirm whether André Oriani has ever driven a car.
+fine-tuned -> Sorry, but I have no information on whether André has driven a car.
+
+Question: Does André Oriani play any instrument?
+gpt3.5-turbo -> Yes, André Oriani is a musician and plays the guitar.
+fine-tuned -> I'm sorry, but I don't have information on whether André Oriani plays any instrument.
+
+Question: Can André Oriani run a marathon?
+gpt3.5-turbo -> As an AI, I do not have personal information about individuals. However, whether André Oriani can run a marathon would depend on his physical fitness, training, and determination. With proper preparation and training, many people are able to successfully complete a marathon.
+fine-tuned -> I'm sorry, but I have no information on whether André Oriani can run a marathon.
+

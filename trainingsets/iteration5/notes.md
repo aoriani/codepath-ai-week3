@@ -1,0 +1,1 @@
+Reduced epoch to 1 (half)
