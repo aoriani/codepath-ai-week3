@@ -41,4 +41,3 @@ fine-tuned -> No, André Oriani does not play any instrument.
 Question: Can André Oriani run a marathon?
 gpt3.5-turbo -> Yes, André Oriani can run a marathon if he has trained and prepared adequately for the distance and intensity of the race. Like any other runner, he would need to build up his endurance, strength, and stamina through consistent training and proper nutrition in order to successfully complete a marathon.
 fine-tuned -> No, André Oriani cannot run a marathon.
-
